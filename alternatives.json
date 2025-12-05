@@ -1,0 +1,129 @@
+[
+  {
+    "paid": "Microsoft Office",
+    "domain": "Office & Productivity",
+    "alternatives": [
+      {
+        "name": "LibreOffice",
+        "description": "Complete open-source office suite",
+        "website": "https://www.libreoffice.org/"
+      },
+      {
+        "name": "OnlyOffice",
+        "description": "Collaborative office suite",
+        "website": "https://www.onlyoffice.com/"
+      },
+      {
+        "name": "Google Docs (Free version)",
+        "description": "Online document editor",
+        "website": "https://docs.google.com/"
+      }
+    ]
+  },
+  {
+    "paid": "Adobe Photoshop",
+    "domain": "Image & Design",
+    "alternatives": [
+      {
+        "name": "GIMP",
+        "description": "Powerful open-source image editor",
+        "website": "https://www.gimp.org/"
+      },
+      {
+        "name": "Krita",
+        "description": "Free digital painting software",
+        "website": "https://krita.org/"
+      },
+      {
+        "name": "Inkscape",
+        "description": "Vector graphics editor",
+        "website": "https://inkscape.org/"
+      }
+    ]
+  },
+  {
+    "paid": "Adobe Premiere Pro",
+    "domain": "Video & Audio",
+    "alternatives": [
+      {
+        "name": "OpenShot",
+        "description": "Easy-to-use video editor",
+        "website": "https://www.openshot.org/"
+      },
+      {
+        "name": "Kdenlive",
+        "description": "Professional video editor",
+        "website": "https://kdenlive.org/"
+      },
+      {
+        "name": "Shotcut",
+        "description": "Free cross-platform video editor",
+        "website": "https://shotcut.org/"
+      }
+    ]
+  },
+  {
+    "paid": "JetBrains PyCharm Professional",
+    "domain": "Development & Coding",
+    "alternatives": [
+      {
+        "name": "VS Code",
+        "description": "Free, lightweight code editor",
+        "website": "https://code.visualstudio.com/"
+      },
+      {
+        "name": "Eclipse",
+        "description": "Open-source IDE for multiple languages",
+        "website": "https://www.eclipse.org/"
+      },
+      {
+        "name": "Atom",
+        "description": "Hackable text editor for developers",
+        "website": "https://atom.io/"
+      }
+    ]
+  },
+  {
+    "paid": "Dropbox",
+    "domain": "Cloud Storage & Collaboration",
+    "alternatives": [
+      {
+        "name": "Nextcloud",
+        "description": "Self-hosted cloud storage solution",
+        "website": "https://nextcloud.com/"
+      },
+      {
+        "name": "Seafile",
+        "description": "Secure file syncing and sharing",
+        "website": "https://www.seafile.com/"
+      },
+      {
+        "name": "OwnCloud",
+        "description": "Open-source cloud platform",
+        "website": "https://owncloud.com/"
+      }
+    ]
+  },
+  {
+    "paid": "Norton Antivirus",
+    "domain": "Security & Utilities",
+    "alternatives": [
+      {
+        "name": "ClamAV",
+        "description": "Open-source antivirus engine",
+        "website": "https://www.clamav.net/"
+      },
+      {
+        "name": "Sophos Home Free",
+        "description": "Free security solution",
+        "website": "https://www.sophos.com/en-us/free-tools.aspx"
+      },
+      {
+        "name": "Comodo Antivirus (Free version)",
+        "description": "Free security and firewall",
+        "website": "https://www.comodo.com/home/internet-security/antivirus.php"
+      }
+    ]
+  }
+]
+
